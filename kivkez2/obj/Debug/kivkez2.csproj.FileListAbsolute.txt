@@ -1,0 +1,5 @@
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez2\bin\Debug\kivkez2.exe.config
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez2\bin\Debug\kivkez2.exe
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez2\bin\Debug\kivkez2.pdb
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez2\obj\Debug\kivkez2.exe
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez2\obj\Debug\kivkez2.pdb

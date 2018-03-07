@@ -1,1 +1,6 @@
 C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\bin\Debug\kivkez.exe.config
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\bin\Debug\kivkez.exe
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\bin\Debug\kivkez.pdb
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\obj\Debug\kivkez.csprojResolveAssemblyReference.cache
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\obj\Debug\kivkez.exe
+C:\Users\hallgató\Documents\Git\labor4\kivkez\kivkez\obj\Debug\kivkez.pdb

@@ -5,6 +5,20 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kivkez", "kivkez\kivkez.csproj", "{7BC1649F-BC64-4CE4-B713-FBFB3777F9F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kivkez2", "kivkez2\kivkez2.csproj", "{AFA9DAA6-C29C-4856-98BD-53037B78E26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kivkez3", "kivkez3\kivkez3.csproj", "{C162EED6-AB16-40E1-B928-B4A8EB264DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kivkez4", "kivkez4\kivkez4.csproj", "{D0000B4A-1855-4038-A372-09C1DC24BE13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B9588F2-E1DA-4D19-908F-CE3A7272A26B}"
+	ProjectSection(SolutionItems) = preProject
+		facebook_beta_sablon\.DS_Store = facebook_beta_sablon\.DS_Store
+		facebook_beta_sablon\komplex_feladat.sln = facebook_beta_sablon\komplex_feladat.sln
+		facebook_beta_sablon\komplex_feladat.userprefs = facebook_beta_sablon\komplex_feladat.userprefs
+		facebook_beta_sablon\komplex_feladat.v12.suo = facebook_beta_sablon\komplex_feladat.v12.suo
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +29,18 @@ Global
 		{7BC1649F-BC64-4CE4-B713-FBFB3777F9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BC1649F-BC64-4CE4-B713-FBFB3777F9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BC1649F-BC64-4CE4-B713-FBFB3777F9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA9DAA6-C29C-4856-98BD-53037B78E26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA9DAA6-C29C-4856-98BD-53037B78E26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA9DAA6-C29C-4856-98BD-53037B78E26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA9DAA6-C29C-4856-98BD-53037B78E26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C162EED6-AB16-40E1-B928-B4A8EB264DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C162EED6-AB16-40E1-B928-B4A8EB264DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C162EED6-AB16-40E1-B928-B4A8EB264DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C162EED6-AB16-40E1-B928-B4A8EB264DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0000B4A-1855-4038-A372-09C1DC24BE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0000B4A-1855-4038-A372-09C1DC24BE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0000B4A-1855-4038-A372-09C1DC24BE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0000B4A-1855-4038-A372-09C1DC24BE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
